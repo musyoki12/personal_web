@@ -1,0 +1,28 @@
+body{
+background-color: aqua;
+width: 100%;
+height: 100%;
+margin: 0;
+text-align: center;
+}
+
+h1{
+    text-align: center;
+}
+.image {
+    max-width:100%;
+    height:100%;
+    float: right;
+}
+footer{
+    width: 100%;
+    padding: 60 px 0;
+    background-color: #D0DAEE;
+    text-align: center;
+}
+section{
+    background-color: rgb(246, 250, 39);
+}
+section:hover{
+    background-color: rgb(47, 113, 255);
+}
